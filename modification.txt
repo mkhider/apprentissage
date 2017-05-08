@@ -1,2 +1,1 @@
-ce fichier fera l'objet d'un commit et d'un push et après une modification
-ce fichier a été modifié
+ce fichier a Ã©tÃ© modifiÃ© Ã  partir de github
